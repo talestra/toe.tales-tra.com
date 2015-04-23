@@ -1,0 +1,229 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url("i/fondo.gif") repeat-x;
+    background-color: #F5DF87;
+    font: normal 12px "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+    color: #473C13;
+    line-height: 18px;
+}
+
+img, div, p, table, tr, td, form, h1, h2, h3, h4, h5, a, form, ul, li { border: 0; padding: 0; margin: 0;}
+
+ul { list-style-type: square; }
+
+a { 
+    text-decoration: none;
+    font-weight: bold;
+    color: #473C13;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    clear: both;
+    visibility: hidden;
+    background: none;
+    border: none;
+    height: 1px;
+    margin: 0;
+    padding: 0;
+    line-height: 0;
+}
+
+#Pagina {
+    margin: 30px auto 0 auto;
+    width: 760px;
+}
+
+#Menu {
+    margin-top: 20px;
+    text-align: center;
+    z-index: 1000;
+    position: relative;
+}
+    #Menu li {
+        display: inline;
+        margin-left: -4px;
+    }
+
+#Cuerpo {
+    background: url("i/desconchado.jpg") no-repeat;
+    background-position: top center;
+    margin-top: -48px;
+    padding-bottom: 40px;
+    *padding-top: 70px;
+}
+    #Opening {
+        padding-top: 48px;
+        padding-bottom: 60px;
+        text-align: center;
+    }
+    .Bloque {
+        width: 470px;
+        margin: 0 auto;
+        padding-bottom: 40px;
+    }
+        .BordeSup {
+            height: 15px;
+            background: url("i/pastilla-sup.gif") no-repeat;
+            background-position: top left;
+            width: 100%;
+        }
+        .CuerpoBloque {
+            background: url("i/pastilla-fondo.gif") repeat-y;
+            background-position: top center;
+        }
+        .BordeInf {
+            height: 15px;
+            background: url("i/pastilla-inf.gif") no-repeat;
+            background-position: top left;
+            width: 100%;
+        }
+        .Bloque h2 {
+            padding: 8px 0 20px 40px;
+        }
+        .Bloque h3 {
+            font-size: 16px;
+            font-weight: normal;
+            margin: 40px 40px 10px 60px;
+            padding: 3px 0 2px 7px;
+            text-transform: uppercase;
+            background-color: #f5eabf;
+            border-bottom: 1px solid #C5B15D;
+            border-right: 1px solid #C5B15D;
+        }
+        .Bloque p {
+            margin: 0 40px 20px 60px;
+            line-height: 22px;
+        }
+            .Bloque p.Descripcion {
+                margin: 0 40px 20px 135px;
+            }
+            .Bloque p.Destacado {
+                border: 1px solid #C5B15D;
+                padding: 5px;
+                text-align: center;
+            }
+            .Bloque span.Superindice {
+                vertical-align: super;
+                font-size: 9px;
+                padding-top: 0;
+            }
+            .Bloque div.Nota {
+                font-size: 10px;
+                margin: 50px 40px 20px 60px;
+                padding: 3px 0 0 0;
+                border-top: 1px solid #C5B15D;
+            }
+                .Bloque div.Nota p {
+                    margin-bottom: 0;
+                    margin: 0;
+                }
+        .Bloque ol {
+            margin: 0 40px 20px 60px;
+        }
+            .Bloque ol.Preguntas {
+                font-weight: bold;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                border-bottom: 1px dotted #705d17;
+                border-top: 1px dotted #705d17;
+            }
+        .Bloque ul {
+            margin: 0 40px 20px 100px;
+        }
+        .Bloque .Sprite {
+            float: left;
+            padding: 0 0 0 53px;
+        }
+        .Bloque .EnlacesDescargas {
+            padding: 0 20px 10px 22px;
+            margin: 0 0 0 40px;
+            background: url("i/flechita-verde.gif") no-repeat;
+            line-height: 15px;
+        }
+            .EnlacesDescargas a, .PSPDescargas a, .PSXDescargas a {
+                font-weight: normal;
+            }
+        .Bloque .PSPDescargas {
+            padding: 0 20px 20px 40px;
+            margin: 5px 0 0 60px;
+            background: url("i/icono-psp.gif") no-repeat;
+            line-height: 5px;
+        }
+        .Bloque .PSXDescargas {
+            padding: 0 20px 10px 35px;
+            margin: 0 0 0 65px;
+            background: url("i/icono-psx.gif") no-repeat;
+            line-height: 15px;
+        }
+    #Descargar {
+        padding-top: 1px;
+    }
+        #DescargarParche {
+            margin-top: 60px;
+        }
+    #Instrucciones {
+        padding-top: 1px;
+    }
+        #AplicarParche {
+            margin-top: 60px;
+        }
+    #Creditos {
+        padding-top: 1px;
+    }
+        #Traductores {
+            margin-top: 60px;
+        }
+            #Traductores .Traductor {
+                margin: 0;
+                padding-top: 0;
+            }
+                #Traductores .Traductor h3 {
+                    margin: 0 40px 0 60px;
+                }
+                #Traductores .Traductor div {
+                    margin: 0 40px 20px 60px;
+                    padding: 20px
+                    margin-bottom: 20px;
+                    background-color: #f2edd9;
+                }
+                #Traductores .Traductor img {
+                    float: left;
+                    margin: 10px 20px 10px 10px;
+                }
+                #Traductores .Traductor p {
+                    margin: 0;
+                    padding: 10px 0 0 0;
+                    line-height: 18px;
+                }
+    #Enlaces {
+        padding-top: 1px;
+    }
+        #EnlacesRecomendados {
+            margin-top: 60px;
+        }
+    #Pie {
+        text-align: center;
+        width: 500px;
+        margin: 0 auto;
+    }
+        #Pie form {
+            margin-bottom: 40px;
+        }
+        #Pie .Notas {
+            padding: 10px 0 10px 0;
+            border-top: solid 1px #C5B15D;
+            color: #A08F49;
+        }
+        #Pie a {
+            font-weight: normal;
+            color: #A08F49;
+        }
+    .Notas {
+        font-size: 10px;
+        text-transform: uppercase;
+        line-height: 15px;
+    }
