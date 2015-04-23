@@ -3,12 +3,12 @@
 	                   <div class="BordeSup"></div>
 	                   <div class="CuerpoBloque">
 	                       <h2><img src="i/titulo-enlaces.gif" alt="Traductores" /></h2>
-	                       <p>Hay cientos de webs que recomendamos visitar, ya sea para informarse, pedir ayuda o simplemente pasar el rato, pero este es el listado de las que creemos más significativas:</p>
-	                       <p class="Destacado"><a name="nota-1-o"></a>Pincha con el botón central para abrir en otra pestaña<span class="Superindice"><a href="#nota-1" title="">[1]</a></span>.</p>
+	                       <p>Hay cientos de webs que recomendamos visitar, ya sea para informarse, pedir ayuda o simplemente pasar el rato, pero este es el listado de las que creemos mÃ¡s significativas:</p>
+	                       <p class="Destacado"><a name="nota-1-o"></a>Pincha con el botÃ³n central para abrir en otra pestaÃ±a<span class="Superindice"><a href="#nota-1" title="">[1]</a></span>.</p>
 	                       <ul>
 	                           <li><a href="http://foro.tales-tra.com">Foro Tales Translations</a></li>
 	                           <li><a href="http://wiki.tales-tra.com">Wiki Tales Translations</a></li>
-	                           <li><a href="http://elotrolado.net/showthread.php?s=&threadid=611138">Hilo <em>Tales of Eternia en Español</em> en EOL</a></li>
+	                           <li><a href="http://elotrolado.net/showthread.php?s=&threadid=611138">Hilo <em>Tales of Eternia en EspaÃ±ol</em> en EOL</a></li>
 	                       </ul>
 	                       <ul>
 	                           <li><a href="http://fortaleza.forumunificado.org/">Fortaleza Romhack</a></li>
@@ -38,7 +38,7 @@
 	                       <ul>
 	                           <li><a href="http://www.anaitgames.com/">AnaitGames</a></li>
 	                           <li><a href="http://gamerah.com">gamerah.com</a></li>
-	                           <li><a href="http://eldesafiodigital.com/blog/">El Desafío Digital</a></li>
+	                           <li><a href="http://eldesafiodigital.com/blog/">El DesafÃ­o Digital</a></li>
 	                       </ul>
 	                       <div class="Nota">
 	                           <p><strong>Notas</strong>:</p>

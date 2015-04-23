@@ -2,8 +2,13 @@
 
 /*
 foreach (scandir('sections') as $s) {
-	$e = mb_detect_encoding(file_get_contents("sections/$s"));
-	echo "$e\n";
+	$rfile = "sections/$s";
+	//$e = mb_detect_encoding(file_get_contents("sections/$s"));
+	file_put_contents(
+		$rfile,
+		mb_convert_encoding(file_get_contents($rfile), 'utf-8', 'ISO-8859-1')
+	);
+	//echo "$s: $e\n";
 }
 */
 
