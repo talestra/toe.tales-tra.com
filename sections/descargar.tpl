@@ -6,7 +6,7 @@
 	                       <div class="Sprite"><img src="i/sprite-keele.gif" alt="" /></div>
 	                       <p class="Descripcion">Versión 1.0.4 - Utiliza este parcheador para traducir <strong>Tales of Eternia</strong> al español. Se distribuye "tal cual", sin soporte ni garantía de ningún tipo. Es extremadamente fácil de usar, pero revisa el apartado de <a href="instrucciones.html">instrucciones</a> para resolver cualquier duda que puedas tener.</p>
 	                       <hr />
-	                       <p class="Notas EnlacesDescargas"><a href="TOE-SPA-11-01-2006-1.0.4-FIXED.rar" title="Descargar el parcheador directamente"><strong>Descarga Directa</strong></a> | <strike>RapidShare</strike></a> | <strike>MegaUpload</strike> | <strike>Bittorrent</strike> | <strike>eMule</strike></p>
+	                       <p class="Notas EnlacesDescargas"><a href="https://github.com/talestra/toe.tales-tra.com/releases/download/1.0.4/TOE-SPA-11-01-2006-1.0.4-FIXED.rar" title="Descargar el parcheador directamente"><strong>Descarga Directa</strong></a> | <strike>RapidShare</strike></a> | <strike>MegaUpload</strike> | <strike>Bittorrent</strike> | <strike>eMule</strike></p>
 	                   </div>
 	                   <div class="BordeInf"></div>
 	               </div>
@@ -17,7 +17,7 @@
 	                       <div class="Sprite"><img src="i/sprite-reid.gif" alt="" /></div>
 	                       <p class="Descripcion">Opening con la canción original japonesa y dos vídeos subtitulados. No son indispensables para que el juego funcione, pero sí la única manera de tener el juego <strong>100%</strong> en español.<br/><br/>Para saber cómo insertar las películas, echa un vistazo a las <a href="instrucciones.html">instrucciones</a>.</p>
 	                       <hr />
-	                       <p class="Notas PSPDescargas"><a href="TOE-Videos-PSP.7z" title="Descargar vídeos de PSP">Descargar</a> <a class="Notas PSXDescargas" href="TOE-Videos-PSX.7z" title="Descargar vídeos de PSX">Descargar</a></p>
+	                       <p class="Notas PSPDescargas"><a href="https://github.com/talestra/toe.tales-tra.com/releases/download/1.0.4/TOE-Videos-PSP.zip" title="Descargar vídeos de PSP">Descargar</a> <a class="Notas PSXDescargas" href="https://github.com/talestra/toe.tales-tra.com/releases/download/1.0.4/TOE-Videos-PSX.zip" title="Descargar vídeos de PSX">Descargar</a></p>
 	                   </div>
 	                   <div class="BordeInf"></div>
 	               </div>
